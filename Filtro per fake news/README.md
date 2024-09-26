@@ -46,3 +46,5 @@ Il sistema di rilevamento delle fake news avrà un impatto significativo a livel
 ## Considerazioni Finali
 
 Questo progetto rappresenta un passo importante verso la lotta alla disinformazione. Contribuirà a creare una rete informativa più affidabile e consentirà agli utenti di navigare online con maggiore consapevolezza e sicurezza.
+
+# Modalità di consegna: link al notebook di Google Colab
