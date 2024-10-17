@@ -20,7 +20,7 @@ Il sistema di rilevamento delle fake news avrà un impatto significativo a livel
 ## Fasi del Progetto
 
 1. **Analisi dei Dati**: 
-   Verranno analizzati due dataset forniti (link: https://proai-datasets.s3.eu-west-3.amazonaws.com/fake_news.zip):
+   Verranno analizzati due dataset forniti (link: [https://proai-datasets.s3.eu-west-3.amazonaws.com/fake_news.zip](https://proai-datasets.s3.eu-west-3.amazonaws.com/fake_news.zip)):
    - **Notizie Vere**
    - **Notizie False**
 
@@ -47,4 +47,3 @@ Il sistema di rilevamento delle fake news avrà un impatto significativo a livel
 
 Questo progetto rappresenta un passo importante verso la lotta alla disinformazione. Contribuirà a creare una rete informativa più affidabile e consentirà agli utenti di navigare online con maggiore consapevolezza e sicurezza.
 
-# Modalità di consegna: link al notebook di Google Colab

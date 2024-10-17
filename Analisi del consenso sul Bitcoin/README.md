@@ -52,5 +52,3 @@ dataset = pd.read_csv('/databricks/driver/bitcoin_tweets.csv', delimiter=";")
 spark_df = spark.createDataFrame(dataset)
 spark_df.write.saveAsTable("bitcoin_tweets")
 ```
-
-# Modalità di consegna: link al notebook di Databricks

@@ -35,4 +35,3 @@ Questa soluzione incrementerà la **sicurezza delle comunicazioni** e migliorer�
 
 Scarica il dataset: https://github.com/ProfAI/natural-language-processing/tree/main/datasets/Verifica%20Finale%20-%20Spam%20Detection
 
-# Modalità di consegna: notebook di Google Colab
